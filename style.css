@@ -7,3 +7,9 @@ ul {
         list-style: none;
         border: 1px dashed yellow;
 }
+
+
+h2 {
+    color: black;
+    font-family: "Arial Black";
+}
